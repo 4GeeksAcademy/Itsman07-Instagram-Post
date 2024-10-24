@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 .post {
-    background-color: white; margin: auto; width: 500px; height: 550px; display: flex; flex-direction: column; justify-content: flex-start; align-items: stretch
+    background-color: white; margin: auto; width: 500px; height: 640px; display: flex; flex-direction: column; justify-content: flex-start; align-items: stretch
 }
 
 .header {
@@ -14,7 +14,7 @@ body {
 }
 
 
-span.icon-css {
+div.icon-css {
     height: 80%;
     width: 0%;
     align-self: center;
@@ -22,14 +22,14 @@ span.icon-css {
     margin: 4px 4px 0px 8px;
 }
 
-span.text {
+div.text {
     height: 80%;
    width: 85%;
    align-self: flex-start;;
    padding: 8px 10px 0px 10px;
 }
 
-span.punto {
+div.punto {
     align-self: center; 
     margin: 35px 15px 8px 0px;
     
